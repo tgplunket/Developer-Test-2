@@ -8,7 +8,7 @@ You will be building an application from the ground up. This application is mean
 
 ## Requirements
 1) The backend application should be built using a C# framework (.Net Core, .Net Framework, etc).
-1) The backend needs to fetch data from the weather API and be resilient against the weather API going down or being overloaded (pretend that the weather api is very fragile and often goes down).
+1) The backend needs to fetch data from the weather API and be resilient against the weather API going down or being overloaded (pretend that the weather api is very fragile and often goes down*).
 1) The frontend should be built with a modern framework (React, Angular, Razor Pages, etc).
 1) The frontend needs to be able to communicate with the backend and retrieve stored results.
 1) The frontend should display the results in a clear format.
@@ -17,3 +17,6 @@ You will be building an application from the ground up. This application is mean
 Please submit your work as a pull request into this repository and email us when you are done.
 
 Thanks and good luck!
+
+
+*Note: We may run your application against an API wrapper for the openweathermap API that fails 60% of the time.*
