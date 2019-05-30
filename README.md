@@ -1,7 +1,7 @@
 # Developer Test
 
 ## Description
-This test is for the Software Developer position at Provoke Solutions, Bellevue. Below you will find a list of requirements. It will be up to you to meet the requirements to the best of your ability. Please pull this repository down and begin your work within this repo. Once completed, you should submit your results as a pull request.
+This test is for the Software Developer position at Provoke Solutions, Bellevue. Below you will find a list of requirements. It will be up to you to meet the requirements to the best of your ability. Please fork this repository. Once completed, you should submit your results as a pull request back to this repository.
 
 ## What you're building
 You will be building an application from the ground up. This application is meant to help your users understand weather patterns using the [OpenWeatherMap API](https://openweathermap.org/). It doesn't need to be fancy, but it should meet the basic requirements below. 
@@ -14,7 +14,7 @@ You will be building an application from the ground up. This application is mean
 1) The frontend should display the results in a clear format.
 
 ## Submitting your work
-Please submit your work as a pull request into this repository and email us when you are done.
+Please submit your work as a pull request into this repository and include a short write-up of how you met each of the above requirements when you are done.
 
 Thanks and good luck!
 
