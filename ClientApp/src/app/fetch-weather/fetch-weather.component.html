@@ -1,0 +1,8 @@
+<p *ngIf="!forecasts"><em>fetching weather</em></p>
+<img src="http://openweathermap.org/img/w/{{forecasts.weather[0].icon}}.png">
+<p>Location: {{ forecasts.name }}</p>
+<p>Temp: {{ forecasts.main.temp }}</p>
+<p>Description: {{ forecasts.weather[0].description }}</p>
+<p>Wind Speed: {{ forecasts.wind.speed }}</p>
+<p>Min: {{ forecasts.main.temp_min }}</p>
+<p>Max: {{ forecasts.main.temp_max }}</p>
